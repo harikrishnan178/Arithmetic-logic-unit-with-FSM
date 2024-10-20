@@ -1,4 +1,6 @@
 # Arithmetic-logic-unit-with-FSM
+![quartus_H6ZaI0A6Au](https://github.com/user-attachments/assets/c5bb9ed7-f6af-48d6-93f6-2cae8f73d1d1)
+
 This project demonstrates the design and implementation of an Arithmetic Logic Unit (ALU) using Finite State Machine (FSM) in VHDL. The ALU performs basic arithmetic and logical operations, while the FSM handles the control flow and state transitions. This project was built as part of an embedded systems course focused on FPGA design using VHDL.
 # Features
 Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
