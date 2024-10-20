@@ -26,8 +26,8 @@ Run the testbench to verify the functionality of the ALU with FSM.
 Synthesize and implement the design on an FPGA.
 
 # Dependencies
-VHDL: Ensure you have a VHDL-compatible simulator (e.g., ModelSim, Vivado).
-FPGA Toolchain: For synthesis and implementation on an FPGA board (e.g., Xilinx Vivado).
+VHDL: Ensure you have a VHDL-compatible simulator (QUARTUS PRIME LITE).
+FPGA Toolchain: For synthesis and implementation on an FPGA board (QUARTUS PRIME LITE).
 # How It Works
 The ALU accepts two operands and an operation code (opcode) to perform the selected operation.
 The FSM controls the operation sequence based on input conditions and transitions between states.
